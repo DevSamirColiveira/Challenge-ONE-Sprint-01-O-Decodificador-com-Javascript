@@ -1,0 +1,32 @@
+@media (max-width: 768px) {
+   main{
+      grid-template-columns: 1fr;
+      grid-template-rows: 1.716rem 1fr 45% 15rem;
+   }
+   header img {
+      width: 3.5rem;
+  }
+   .text-area-input textarea{
+      height: 15rem;
+   }
+   .text-area-input p {
+      font-size: 1.0rem;
+   }
+   .text-area-output{
+      padding: 1rem;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 1rem 0;
+   }
+   .text-area-output img{
+      width: 0;
+      height: 0;
+      overflow: hidden;
+   }
+   .break {
+      word-break: normal;
+   }
+}

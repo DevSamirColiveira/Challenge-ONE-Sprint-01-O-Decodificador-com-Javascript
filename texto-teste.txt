@@ -1,0 +1,3 @@
+como ainda nao temos nenhum usuario em nosso banco de dados devemos comecar incluindo um novo assim poderemos verificar se nossa feature esta funcionando de forma corretaa para testar um novo cadastro devemos passar o email e senha a serem cadastrados para a requisicao do tipo post informando o mesmo endereco.
+
+pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober.

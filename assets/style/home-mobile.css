@@ -1,0 +1,42 @@
+@media (max-width: 375px){
+   body{
+      grid-template-rows: 1fr 10rem;
+   }
+   header img {
+      width: 3.5rem;
+  }
+   main{
+      width: 100%;
+      padding: 1rem;
+   }
+   button{
+      width: 100%;
+   }
+   .text-area-input p {
+      font-size: 1.0rem;
+   }
+   .crypto-controls-group-button{
+      flex-direction: column;
+   }
+   
+   footer{
+      display: flex;
+      flex-direction: column;
+      margin-top: 1rem;
+      font-size: 1rem;
+   }
+  
+   footer ul{
+      gap: 1rem;
+      margin-top: 0.5rem;
+   }
+   footer p:after{
+      content: '';
+      display: flex;
+      position: absolute;
+      width: calc(100% - 3rem);
+      height: 1px;
+      margin: 0.5rem;
+      background-color: var(--light-blue-100);
+   }
+}
