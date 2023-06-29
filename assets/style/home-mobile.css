@@ -22,7 +22,8 @@
    footer{
       display: flex;
       flex-direction: column;
-      margin-top: 1rem;
+      /*margin-top: 1rem;*/
+      margin-bottom: -23rem;
       font-size: 1rem;
    }
   
