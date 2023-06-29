@@ -1,4 +1,4 @@
-@media (max-width: 375px){
+@media screen and (max-width: 375px){
    body{
       grid-template-rows: 1fr 10rem;
    }
